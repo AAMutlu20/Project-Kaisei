@@ -6,7 +6,17 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Github/Project-Kaisei/ProjectKaisei/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"D:/Github/Project-Kaisei/ProjectKaisei/Content/Levels/MainLevel.umap"
+				"D:/Github/Project-Kaisei/ProjectKaisei/Content/General/Materials/Ground_Forest/ForestGround.uasset",
+				"D:/Github/Project-Kaisei/ProjectKaisei/Content/General/Materials/Gold/Gold.uasset",
+				"D:/Github/Project-Kaisei/ProjectKaisei/Content/General/Materials/Ground_Forest/ForestGround_Inst.uasset",
+				"D:/Github/Project-Kaisei/ProjectKaisei/Content/General/Levels/Camo.umap",
+				"D:/Github/Project-Kaisei/ProjectKaisei/Content/General/Levels/Camo_sharedassets/Grass_LayerInfo.uasset",
+				"D:/Github/Project-Kaisei/ProjectKaisei/Content/General/Levels/Camo_sharedassets/Dirt_LayerInfo.uasset",
+				"D:/Github/Project-Kaisei/ProjectKaisei/Content/General/Levels/Camo_sharedassets/LushGrass_LayerInfo.uasset",
+				"D:/Github/Project-Kaisei/ProjectKaisei/Content/Levels/MainLevel.umap",
+				"D:/Github/Project-Kaisei/ProjectKaisei/Content/Levels/Camp.umap",
+				"D:/Github/Project-Kaisei/ProjectKaisei/Content/General/Levels/Camp.umap",
+				"D:/Github/Project-Kaisei/ProjectKaisei/Content/General/Levels/NewWorld.umap"
 			]
 		}
 	]
