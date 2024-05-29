@@ -8879,3 +8879,54 @@ Any materials which use this function will lose their connections to these funct
 [2024.05.29-20.51.19:994][215]AssetCheck: New page: Asset Save: Camo
 [2024.05.29-20.51.19:994][215]LogContentValidation: Display: Validating /Script/Engine.World /Game/General/Levels/Camo.Camo
 [2024.05.29-20.52.07:754][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.05.29-20.53.17:601][802]LogSlate: Window 'Message' being destroyed
+[2024.05.29-20.53.17:606][802]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/General/Materials/Ground_Forest/ForestGround.ForestGround
+(Selecting 'No' will cause all changes to be lost!)
+[2024.05.29-20.53.17:732][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.05.29-20.53.18:003][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.05.29-20.53.18:052][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.05.29-20.53.20:415][802]LogSlate: Window 'Save Content' being destroyed
+[2024.05.29-20.53.20:425][802]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-20.53.20:830][802]LogSavePackage: Moving output files for package: /Game/General/Materials/Ground_Forest/ForestGround
+[2024.05.29-20.53.20:831][802]LogSavePackage: Moving '../../../../../Github/Project-Kaisei/ProjectKaisei/Saved/ForestGroundB46179674492E2DF3449F6A33A9EE7A6.tmp' to '../../../../../Github/Project-Kaisei/ProjectKaisei/Content/General/Materials/Ground_Forest/ForestGround.uasset'
+[2024.05.29-20.53.20:954][802]LogFileHelpers: InternalPromptForCheckoutAndSave took 528 ms (total: 29.2 sec)
+[2024.05.29-20.53.20:960][802]LogStall: Shutdown...
+[2024.05.29-20.53.21:046][802]LogStall: Shutdown complete.
+[2024.05.29-20.53.21:755][802]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.29-20.53.21:755][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.29-20.53.21:850][802]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.05.29-20.53.21:850][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.29-20.53.21:901][802]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.05.29-20.53.21:901][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.29-20.53.21:952][802]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.05.29-20.53.21:952][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.29-20.53.22:181][802]LogSlate: Window 'ProjectKaisei - Unreal Editor' being destroyed
+[2024.05.29-20.53.23:122][802]AssetCheck: New page: Asset Save: ForestGround
+[2024.05.29-20.53.23:122][802]LogContentValidation: Display: Validating /Script/Engine.Material /Game/General/Materials/Ground_Forest/ForestGround.ForestGround
+[2024.05.29-20.53.23:166][802]LogAutomationController: Ignoring very large delta of 9.72 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.05.29-20.53.23:188][803]Cmd: QUIT_EDITOR
+[2024.05.29-20.53.23:188][803]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.05.29-20.53.23:369][803]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.05.29-20.53.23:426][803]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.05.29-20.53.23:427][803]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.05.29-20.53.23:594][803]LogWorld: UWorld::CleanupWorld for Camo, bSessionEnded=true, bCleanupResources=true
+[2024.05.29-20.53.23:595][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.29-20.53.25:496][803]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.05.29-20.53.29:110][803]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.05.29-20.53.29:112][803]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.05.29-20.53.29:112][803]LogAudio: Display: Audio Device unregistered from world 'Camo'.
+[2024.05.29-20.53.29:112][803]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.05.29-20.53.29:286][803]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.05.29-20.53.29:290][803]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.05.29-20.53.29:892][803]LogAudio: Display: Audio Device Manager Shutdown
+[2024.05.29-20.53.29:895][803]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.05.29-20.53.30:233][803]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.05.29-20.53.30:309][803]LogExit: Preparing to exit.
+[2024.05.29-20.53.32:126][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.05.29-20.53.35:844][803]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.05.29-20.53.35:844][803]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.05.29-20.53.35:844][803]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.29-20.53.41:874][803]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.05.29-20.53.45:008][803]LogExit: Editor shut down
+[2024.05.29-20.53.45:545][803]LogExit: Transaction tracking system shut down
